@@ -7,6 +7,6 @@
 - Lengkap dengan 14 Modules
 - Tersedia Silabus
 
-[Silabus](html/silabus.md)  [Get Started](#pengenalan)
+[Silabus](html/SILABUS.md)  [Get Started](#pengenalan)
 
 ![color](#f2f2f2)
