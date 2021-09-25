@@ -4,6 +4,8 @@
 
 Sumber: Wikipedia
 
+![](../assets/images/html-css-javascript.png)
+
 ---
 
 # **Apa itu Code Editor?**
@@ -14,7 +16,7 @@ Editor adalah sebuah aplikasi atau _software_ yang digunakan untuk mengedit `cod
 
 [Download disini](https://code.visualstudio.com/ ':target=_blank')
 
-![](/assets/images/vscode.jpg)
+![](../assets/images/vscode.jpg)
 
 --- 
 
@@ -23,7 +25,7 @@ Editor adalah sebuah aplikasi atau _software_ yang digunakan untuk mengedit `cod
 
 [Download disini](https://www.sublimetext.com/ ':target=_blank')
 
-![](/assets/images/sublime.jpg)
+![](../assets/images/sublime.jpg)
 
 ---
 
@@ -32,7 +34,7 @@ Editor adalah sebuah aplikasi atau _software_ yang digunakan untuk mengedit `cod
 
 [Download disini](https://atom.io/ ':target=_blank')
 
-![](/assets/images/atom.jpg)
+![](../assets/images/atom.jpg)
 
 --- 
 
@@ -144,7 +146,7 @@ Heading adalah sebuah tag yang digunakan untuk menampilkan sebuah Header atau Te
 <h6>Heading 6</h6>
 ```
 
-![](/assets/images/screenshot/heading-looks.jpg)
+![](../assets/images/screenshot/heading-looks.jpg)
 
 ---
 
@@ -157,7 +159,7 @@ Tag `<p>` digunakan untuk mendefinisikan sebuah paragraf.
 <p>This is another paragraph.</p>
 ```
 
-![](/assets/images/screenshot/paragraph-looks.jpg)
+![](../assets/images/screenshot/paragraph-looks.jpg)
 
 ---
 
@@ -172,7 +174,7 @@ Tag `<img>` tanpa tag penutup, digunakan untuk menampilkan sebuah gambar. Bisa d
 <img src="/assets/images/sample/sample-1.jpeg" alt="laptop">
 ```
 
-![](/assets/images/screenshot/img-looks.jpg)
+![](../assets/images/screenshot/img-looks.jpg)
 
 ---
 
@@ -200,7 +202,7 @@ Tag `<table></table>` digunakan untuk menampilkan sebuah tabel.
 </table>
 ```
 
-![](/assets/images/screenshot/img-looks.jpg)
+![](../assets/images/screenshot/img-looks.jpg)
 
 ---
 
@@ -224,7 +226,7 @@ Tag `<ul></ul>` atau `<ol></ol>` digunakan untuk menampilkan sebuah tabel.
 </ol>
 ```
 
-![](/assets/images/screenshot/list-looks.jpg)
+![](../assets/images/screenshot/list-looks.jpg)
 
 ---
 
@@ -242,7 +244,7 @@ Macam-macam _value_ yang ada di tag `<a>` :
 <a href="https://kanglerian.github.io/">kanglerian</a>
 ```
 
-![](/assets/images/screenshot/hyperlink-looks.jpg)
+![](../assets/images/screenshot/hyperlink-looks.jpg)
 
 ---
 
@@ -290,7 +292,7 @@ Attribute `class` menambahkan sebuah _stylesheet_. Class dapat digunakan beberap
 </html>  
 ```
 
-![](/assets/images/screenshot/class-looks.jpg)
+![](../assets/images/screenshot/class-looks.jpg)
 
 ---
 
@@ -330,7 +332,7 @@ Attribute `id` menambahkan sebuah _identitas_ dapat juga digunakan sebagai _styl
 </html>  
 ```
 
-![](/assets/images/screenshot/id-looks.jpg)
+![](../assets/images/screenshot/id-looks.jpg)
 
 ---
 
@@ -365,7 +367,7 @@ Attribute `id` menambahkan sebuah _identitas_ dapat juga digunakan sebagai _styl
 </html>  
 ```
 
-![](/assets/images/screenshot/javascript-looks.jpg)
+![](../assets/images/screenshot/javascript-looks.jpg)
 
 ---
 

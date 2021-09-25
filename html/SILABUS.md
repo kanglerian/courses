@@ -1,5 +1,7 @@
 👈 [kembali](/html/)
 
+✅ jika selesai | ❌ jika belum
+
 # **Silabus**
 
 - **Pengajar**: Lerian Febriana, A.Md.Kom
@@ -13,20 +15,8 @@
 - **Materi Pokok** : Mengenal HTML
 - **Kompetensi Dasar** : Peserta dapat memahami apa itu HTML dan memahami bagaimana cara menggunakannya.
 - **Materi yang diajarkan** :
-1. Mengenal HTML
-2. Cara menggunakan HTML
-3. Teks Editor
-
----
----
-
-## Pertemuan 2
-
-- **Materi Pokok** : Mengenal HTML
-- **Kompetensi Dasar** : Peserta dapat memahami apa itu HTML dan memahami bagaimana cara menggunakannya.
-- **Materi yang diajarkan** :
-1. Mengenal HTML
-2. Cara menggunakan HTML
-3. Teks Editor
+1. Mengenal HTML ❌
+2. Mengenal Code Editor beserta variannya ❌
+3. Menjalankan file `.html` di web browser ❌
 
 ---
