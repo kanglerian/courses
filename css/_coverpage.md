@@ -6,6 +6,6 @@
 - Lengkap dengan 14 Modules
 - Tersedia Silabus
 
-[Codale Center](/)  [Get Started](#pengenalan)
+[Silabus](/css/silabus.md)   [Get Started](#pengenalan)
 
 ![color](#f2f2f2)
