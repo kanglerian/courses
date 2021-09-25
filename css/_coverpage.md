@@ -1,4 +1,4 @@
-![logo](../../assets/icons/logo-css.svg ':size=100x100')
+![logo](/assets/icons/logo-css.svg ':size=100x100')
 # **Codale Center**
 
 > Cascading Style Sheets

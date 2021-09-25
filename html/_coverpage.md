@@ -1,4 +1,4 @@
-![logo](../../assets/icons/icon-html.svg ':size=100x100')
+![logo](/assets/icons/icon-html.svg ':size=100x100')
 
 # **Codale Center**
 
