@@ -18,6 +18,13 @@ Editor adalah sebuah aplikasi atau _software_ yang digunakan untuk mengedit `cod
 
 ![](../assets/images/vscode.jpg)
 
+_Plugin_ yang disarankan untuk di install :
+
+- Live Server
+- Auto Rename Tag
+- Auto Close Tag
+- HTML Snippets
+
 --- 
 
 ## Sublime Text
