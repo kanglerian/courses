@@ -18,5 +18,5 @@
 1. Mengenal HTML ❌
 2. Mengenal Code Editor beserta variannya ❌
 3. Menjalankan file `.html` di web browser ❌
-
+4. Menginstall Plugin VSCode ❌
 ---
